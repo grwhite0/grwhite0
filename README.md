@@ -3,6 +3,8 @@
 Junior at Washington and Lee University
 
 Economics major, minors in Computer Science and Data Science
+
+Probably drinking coffee and doing work
 <!--
 **grwhite0/grwhite0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
