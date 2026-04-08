@@ -2,7 +2,7 @@
 
 Junior at Washington and Lee University
 
-Economics major, minors in Computer Science and Data Science
+Economics and Computer Science double major
 
 Probably drinking coffee and doing work
 <!--
